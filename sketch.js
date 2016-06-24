@@ -249,7 +249,7 @@ var Parameters = function () { //These are the initial values, not the randomise
   this.trails = true;
   this.restart = function () {colony.cells = []; populateColony();};
   this.randomRestart = function () {randomizer(); colony.cells = []; populateColony();};
-  this.instructions = function () {window.open("http://rik-brown.github.io/Aybe_Sea/Instructions.txt")};
+  this.instructions = function () {window.open("http://cellendipity.github.io/one/Instructions.txt")};
   this.debug = false;
 
 }
