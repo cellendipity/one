@@ -17,6 +17,7 @@ Keys 1-8 select a predefined fill-colour:
 9 increases fill hue (+2)
 0 decreases fill hue (-2)
 
+Mouseclick will spawn a cell at the current mouse location
 
 Spacebar  Respawns with current settings
 R         Respawns after randomizing most of the settings
@@ -27,7 +28,9 @@ S         Saves a screenshot as .png file
 D         Toggles 'debug mode' on/off
 H         Hides/shows the menu
 
-Tip: You can save your favourite configurations in the menu, but first you need to click on the 'settings' icon at the top, 
+Use F11 for browser fullscreen-mode & F5 to refresh and fill the whole screen.
+
+Tip: You can save your favourite settings in the menu, but first you need to click on the 'gearwheel' icon at the top, 
 then select "Automatically save values to localStorage on exit."
 
-Github: https://github.com/cellendipity/one
+Source code: https://github.com/cellendipity/one    Powered by @p5xjs 
