@@ -1,4 +1,4 @@
-'Cellendipity' by Richard Brown
+'Cellendipity' v1.0 by Richard Brown
 
 Keyboard shortcuts
 ==================
