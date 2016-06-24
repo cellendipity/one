@@ -1,4 +1,4 @@
-'Tentaculous' by Richard Brown
+'Cellendipity' by Richard Brown
 
 Keyboard shortcuts
 ==================
@@ -30,4 +30,4 @@ H         Hides/shows the menu
 Tip: You can save your favourite configurations in the menu, but first you need to click on the 'settings' icon at the top, 
 then select "Automatically save values to localStorage on exit."
 
-Github: https://github.com/rik-brown/Aybe_Sea
+Github: https://github.com/cellendipity/one
