@@ -287,7 +287,7 @@ this.randomizer = function() { // Parameters are randomized (more than in the in
   if (random(1) > 0.7) {p.nucleus = true;} else {p.nucleus = false;}
 
   p.noisePercent = random(100); // Percentage of velocity coming from noise-calculation
-  p.spiral = random(3); // Number of full (TWO_PI) rotations the velocity heading will turn through during lifespan
+  if (random(1) < 0.7) {p.spiral = random(1);} else {p.spiral = random(3);} // Number of full (TWO_PI) rotations the velocity heading will turn through during lifespan
   if (random(1) < 0.7) {p.stepSize = 0;} else {p.stepSize = random(100)};
   if (p.stepSize==0) {p.stepped=false} else {p.stepped=true}
   p.stepSizeN = random(20);
